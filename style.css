@@ -1,0 +1,268 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    padding: 10px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #000C1D;
+    color: #fff;
+}
+
+.container {
+    width: 850px;
+    padding: 30px 35px 35px;
+    background: #0000004b;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.container.disable .editor-panel,
+.container.disable .controls .reset-filter,
+.container.disable .controls .save-img {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.container h2 {
+    margin-top: -8px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.container .wrapper {
+    display: flex;
+    margin: 20px 0;
+    min-height: 335px;
+}
+
+.wrapper .editor-panel {
+    padding: 15px 20px;
+    width: 280px;
+    border-radius: 5px;
+    border: 0px solid #ccc;
+}
+
+input:hover {
+    cursor: pointer;
+}
+
+.editor-panel .title {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.editor-panel .options,
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#grayscale:hover,
+#inversion:hover,
+#saturation:hover,
+#brightness:hover {
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate {
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+#left,
+#right,
+#horizontal,
+#vertical {
+    transition: 500ms;
+}
+
+#left:hover,
+#right:hover,
+#horizontal:hover,
+#vertical:hover {
+    background: #5372F0;
+    color: #fff;
+    transition: 250ms;
+    cursor: pointer;
+}
+
+.editor-panel button {
+    outline: none;
+    height: 40px;
+    font-size: 14px;
+    color: #6C757D;
+    background: #fff;
+    border-radius: 3px;
+    margin-bottom: 8px;
+    border: 1px solid #aaa;
+}
+
+.editor-panel .filter button {
+    width: calc(100% / 2 - 4px);
+}
+
+.editor-panel button:hover {
+    background: #f5f5f5;
+    border-radius: 10px;
+    transition: 250ms;
+}
+
+.filter button.active {
+    color: #fff;
+    border-color: #5372F0;
+    background: #5372F0;
+}
+
+.filter .slider {
+    margin-top: 12px;
+}
+
+.filter .slider .filter-info {
+    display: flex;
+    color: #fff;
+    font-size: 14px;
+    justify-content: space-between;
+}
+
+.filter .slider input {
+    width: 100%;
+    height: 5px;
+    accent-color: #5372F0;
+}
+
+.editor-panel .rotate {
+    margin-top: 17px;
+}
+
+.editor-panel .rotate button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% / 4 - 3px);
+}
+
+.rotate .options button:nth-child(3),
+.rotate .options button:nth-child(4) {
+    font-size: 18px;
+}
+
+.rotate .options button:active {
+    color: #fff;
+    background: #5372F0;
+    border-color: #5372F0;
+}
+
+.wrapper .preview-img {
+    flex-grow: 1;
+    display: flex;
+    overflow: hidden;
+    margin-left: 20px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.preview-img img {
+    max-width: 490px;
+    max-height: 335px;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.controls button {
+    padding: 11px 20px;
+    font-size: 14px;
+    border-radius: 3px;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    background: none;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+.controls .reset-filter {
+    color: #fff;
+    border: 1px solid #6C757D;
+}
+
+.controls .reset-filter:hover {
+    color: #6C757D;
+    background: #6c757d34;
+    border-radius: 50px;
+    transform: 500ms;
+}
+
+.controls .choose-img {
+    background: #6C757D;
+    border: 1px solid #6C757D;
+}
+
+.controls .choose-img:hover {
+    background-color: #5372F0;
+    border-radius: 50px;
+}
+
+.controls .save-img {
+    margin-left: 5px;
+    background: #5372F0;
+    border: 1px solid #5372F0;
+}
+
+.controls .save-img:hover {
+    background-color: #6C757D;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 760px) {
+    .container {
+        padding: 25px;
+    }
+
+    .container .wrapper {
+        flex-wrap: wrap-reverse;
+    }
+
+    .wrapper .editor-panel {
+        width: 100%;
+    }
+
+    .wrapper .preview-img {
+        width: 100%;
+        margin: 0 0 15px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .controls button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .controls .row {
+        width: 100%;
+    }
+
+    .controls .row .save-img {
+        margin-left: 0px;
+    }
+}
