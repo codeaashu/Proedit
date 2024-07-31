@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) <hr>
   
-  <img src="https://github.com/codeaashu/Proedit/blob/main/img.png" width="150" />
+  <img src="https://github.com/codeaashu/Proedit/blob/main/img.png" width="120" />
   <h2 align="center">Proedit</h2>
 
  `Weather Web App to get the current weather state using the openweathermap API 🌐`
