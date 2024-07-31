@@ -42,8 +42,9 @@ To run this web application locally, follow these steps: <br>
 ` License © `
 
 <img src="https://github.com/Dynamic-Project/dp-assets/blob/main/dp%20logo%20circle.png" width="80" />
+`This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project)`
 
-This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project) & licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 <hr>
 `Don't forget to give star this repository ⭐`
