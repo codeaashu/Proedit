@@ -35,8 +35,8 @@
 
 ` Getting Started 🚀 `
 
-To run this web application locally, follow these steps:
-`1. Clone this repository to your local machine.`
+To run this web application locally, follow these steps: <br>
+`1. Clone this repository to your local machine.` <br>
 `2. Open index.html file in the web browser.`
 
 ` License © `
