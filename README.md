@@ -37,13 +37,16 @@
 
 To run this web application locally, follow these steps: <br>
 `1. Clone this repository to your local machine.` <br>
-`2. Open index.html file in the web browser.`
+`2. Open index.html file in the web browser.` <hr>
 
 ` License © `
 
+<img src="https://github.com/Dynamic-Project/dp-assets/blob/main/dp%20logo%20circle.png" width="80" />
+
 This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project) & licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-`Don't forget to starred this repository ⭐`
+<hr>
+`Don't forget to give star this repository ⭐`
 
 </div>
 
