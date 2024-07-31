@@ -45,7 +45,7 @@ To run this web application locally, follow these steps: <br>
 
 This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <hr>
 `Don't forget to give star this repository ⭐`
