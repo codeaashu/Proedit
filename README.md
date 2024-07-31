@@ -1,51 +1,40 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Weather-State)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Weather-State?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) <hr>
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Proedit)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Proedit?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Proedit?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) 
   
   <img src="https://github.com/codeaashu/Proedit/blob/main/img.png" width="120" />
   <h2 align="center">Proedit</h2>
 
- `Weather Web App to get the current weather state using the openweathermap API 🌐`
+ `A Web Application which allows users to easily manipulate images by adjusting brightness, saturation, inversion, grayscale, and rotation. It provides a user-friendly interface that enables users to customize their images to their preferences.⚙️`
 
-  <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://proedit.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-<img src="./icons/weather app.png" /> <hr>
+<img src="https://github.com/codeaashu/Proedit/blob/main/Damo-Pic.png" /> <hr>
 
-<img src="./icons/black result.png"/>
-
-<img src="./icons/theme.png" /> <hr>
 
 `Don't forget to starred this repository ⭐`
 
-</div>
-
-# Proedit Image Manipulation Web App
-
-## Description
-
-This web application allows users to easily manipulate images by adjusting brightness, saturation, inversion, grayscale, and rotation. It provides a user-friendly interface that enables users to customize their images to their preferences.
-
-![App Screenshot](https://github.com/codeaashu/Proedit/blob/main/Damo-Pic.png)
-
 ## Features
-
-- **Brightness Control**: Adjust the brightness of the image.
-- **Saturation Control**: Modify the saturation of the image.
-- **Inversion**: Invert the colors of the image.
-- **Grayscale Conversion**: Convert the image to grayscale.
-- **Rotation**: Rotate the image to the desired angle.
-- **Preview**: See real-time previews of the changes before applying them.
-- **Download**: Download the manipulated image.
-
+```
+🔆 Brightness Control: Adjust the brightness of the image.
+🌗 Saturation Control: Modify the saturation of the image.
+💡 Inversion: Invert the colors of the image.
+🔄 Grayscale Conversion: Convert the image to grayscale.
+🔃 Rotation: Rotate the image to the desired angle.
+🫣 Preview: See real-time previews of the changes before applying them.
+📥 Download: Download the manipulated image.
+```
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
+
+</div>
 ## Getting Started
 
 To run this web application locally, follow these steps:
