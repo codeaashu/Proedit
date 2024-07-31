@@ -18,7 +18,8 @@
 `Don't forget to starred this repository ⭐`
 </div>
 
-```Features 🌟
+`Features 🌟`
+```
   🔆 Brightness Control: Adjust the brightness of the image.
   🌗 Saturation Control: Modify the saturation of the image.
   💡 Inversion: Invert the colors of the image.
