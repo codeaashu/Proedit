@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) 
   
   <img src="https://github.com/codeaashu/Proedit/blob/main/img.png" width="120" />
-  <h2 align="center">Proedit</h2>
+  <h2 align="center">Proedit - Image Manipulation Web App</h2>
 
  ` A Web Application which allows users to easily manipulate images by adjusting brightness, saturation, inversion, grayscale, and rotation. It provides a user-friendly interface that enables users to customize their images to their preferences.⚙️ `
 
