@@ -17,21 +17,24 @@
 
 `Don't forget to starred this repository ⭐`
 
-## Features
+
+```Features 🌟
+/**
+ * 🔆 Brightness Control: Adjust the brightness of the image.
+ * 🌗 Saturation Control: Modify the saturation of the image.
+ * 💡 Inversion: Invert the colors of the image.
+ * 🔄 Grayscale Conversion: Convert the image to grayscale.
+ * 🔃 Rotation: Rotate the image to the desired angle.
+ * 🫣 Preview: See real-time previews of the changes before applying them.
+ * 📥 Download: Download the manipulated image.
+ */
 ```
-🔆 Brightness Control: Adjust the brightness of the image.
-🌗 Saturation Control: Modify the saturation of the image.
-💡 Inversion: Invert the colors of the image.
-🔄 Grayscale Conversion: Convert the image to grayscale.
-🔃 Rotation: Rotate the image to the desired angle.
-🫣 Preview: See real-time previews of the changes before applying them.
-📥 Download: Download the manipulated image.
-```
-## Technologies Used
+
+## Technologies Used 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 
-</div>
+
 ## Getting Started
 
 To run this web application locally, follow these steps:
@@ -50,4 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Thanks to [Name of library or resource] for [specific functionality or inspiration].
+
+</div>
 
