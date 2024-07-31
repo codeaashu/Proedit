@@ -36,6 +36,7 @@
 ` Getting Started 🚀 `
 
 To run this web application locally, follow these steps:
+
 ```
 1. Clone this repository to your local machine.
 2. Open `index.html` in a web browser.
@@ -43,14 +44,7 @@ To run this web application locally, follow these steps:
 
 ` License © `
 
-This project is built under🌐  @dynamic-project & licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Author
-- aashuu    
-
-## Acknowledgments
-
-- Thanks to [Name of library or resource] for [specific functionality or inspiration].
+This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project) & licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 `Don't forget to starred this repository ⭐`
 
