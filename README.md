@@ -15,10 +15,9 @@
 <img src="https://github.com/codeaashu/Proedit/blob/main/Damo-Pic.png" /> <hr>
 
 
-`Don't forget to starred this repository ⭐`
+`Features 🌟`
 </div>
 
-`Features 🌟`
 ```
   🔆 Brightness Control: Adjust the brightness of the image.
   🌗 Saturation Control: Modify the saturation of the image.
@@ -52,6 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Thanks to [Name of library or resource] for [specific functionality or inspiration].
+
+`Don't forget to starred this repository ⭐`
 
 </div>
 
