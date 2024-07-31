@@ -19,13 +19,13 @@
 </div>
 
 ```
-  🔆 Brightness Control: Adjust the brightness of the image.
-  🌗 Saturation Control: Modify the saturation of the image.
-  💡 Inversion: Invert the colors of the image.
-  🔄 Grayscale Conversion: Convert the image to grayscale.
-  🔃 Rotation: Rotate the image to the desired angle.
-  🫣 Preview: See real-time previews of the changes before applying them.
-  📥 Download: Download the manipulated image.
+  🔆 Brightness Control : Adjust the brightness of the image.
+  🌗 Saturation Control : Modify the saturation of the image.
+  💡 Inversion : Invert the colors of the image.
+  🔄 Grayscale Conversion : Convert the image to grayscale.
+  🔃 Rotation : Rotate the image to the desired angle.
+  🫣 Preview : See real-time previews of the changes before applying them.
+  📥 Download : Download the manipulated image.
 ```
 <hr><div align="center">
   
