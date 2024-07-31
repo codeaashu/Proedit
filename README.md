@@ -27,7 +27,7 @@
   🫣 Preview: See real-time previews of the changes before applying them.
   📥 Download: Download the manipulated image.
 ```
-<hr><div>
+<hr><div align="center">
   
 `Technologies Used 💻`
 
